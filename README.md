@@ -1,6 +1,8 @@
 # vue-multiselect ![Build Status](https://circleci.com/gh/shentao/vue-multiselect/tree/2.0.svg?style=shield&circle-token=5c931ff28fd12587610f835472becdd514d09cef)[![Codecov branch](https://img.shields.io/codecov/c/github/shentao/vue-multiselect/2.0.svg)](https://codecov.io/gh/shentao/vue-multiselect/branch/2.0)[![npm](https://img.shields.io/npm/v/vue-multiselect.svg)](https://www.npmjs.com/package/vue-multiselect)
 Probably the most complete *selecting* solution for Vue.js 2.0, without jQuery.
 
+This is the AdMan fork of the original repo. We will fix some bugs and add new features if needed. 
+
 ![Vue-Multiselect Screen](https://raw.githubusercontent.com/shentao/vue-multiselect/2.0/multiselect-screen-203.png)
 
 ### Features & characteristics:
@@ -165,7 +167,7 @@ methods: {
 # serve with hot reload at localhost:8080
 npm run dev
 
-# distribution build with minification
+# distribution build with minification - do this any time a new version id released
 npm run bundle
 
 # build the documentation into docs
